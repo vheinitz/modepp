@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/src">
+        <file>about.cpp</file>
+        <file>about.h</file>
+        <file>about.ui</file>
+        <file>main.cpp</file>
+        <file>mainwindow.cpp</file>
+        <file>mainwindow.h</file>
+        <file>mainwindow.ui</file>
+        <file>MoDePP.h</file>
+        <file>qmodepp_client.pro</file>
+        <file>src.qrc</file>
+    </qresource>
+</RCC>
